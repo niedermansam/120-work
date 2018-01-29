@@ -2,3 +2,5 @@ Name: {Sam Supplee-Niederman}
 Date: {1/29/2018}
 
 This is my first text document for one of Dr. Musick's Media Arts courses.
+
+I added a new lien to this file in my text editor!!!
